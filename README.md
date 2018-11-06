@@ -3,9 +3,10 @@
 ![Wallpaper](./screenshot.png)
 
 Packages :
+
 * i3-gaps
 * i3-blocks
-* i3blocks-contrib (git clone https://github.com/vivien/i3blocks-contrib.git)
+* i3blocks-contrib (`git clone https://github.com/vivien/i3blocks-contrib.git`)
 * autorandr
 * compton
 * nitrogen
